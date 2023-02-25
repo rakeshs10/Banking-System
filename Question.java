@@ -6,9 +6,6 @@ class Person {
     int balance;
     int PIN;
 
-    public Person(){
-
-    }
     public Person(String name, int account_no, int balance, int PIN){
         this.name=name;
         this.account_no=account_no;
